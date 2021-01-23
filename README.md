@@ -6,6 +6,7 @@
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Paint-Store.git
 ```
 
 ## Usage
