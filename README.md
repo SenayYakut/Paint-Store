@@ -10,6 +10,7 @@ Install the project locally
 
 ## Usage
 Go to 
+https://senayyakut.github.io/Paint-Store/
 
 
 ## Contributing
